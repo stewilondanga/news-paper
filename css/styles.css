@@ -53,12 +53,12 @@ body {
   padding: 0 10px;
 }
 
-/*.columns div p {
-	font-family: "Roboto", sans-serif;
-	text-align: left;
+.columns div p {
+  font-family: "Roboto", sans-serif;
+  text-align: left;
 }
 
-h1 {
+/*h1 {
 	font-size: 2.5em;
 }
 

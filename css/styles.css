@@ -38,15 +38,15 @@ body {
   border-right: 1px solid black;
 }
 
-/*.columns {
-	display: flex;
-	justify-content: center;
-	align-items: stretch;
-	margin-top: 10px;
-	border-top: 3px solid black;
+.columns {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: 10px;
+  border-top: 3px solid black;
 }
 
-.columns > div {
+/*.columns > div {
 	flex-grow: 0;
 	flex-basis: 20%;
 	text-align: center;

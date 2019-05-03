@@ -69,17 +69,17 @@ h1 {
   image-rendering: pixelated;
 }
 
-/*.footer {
-	text-align: center;
-	font-size: 1em;
-	font-weight: bold;
-	margin-top: 20px;
-	padding: 5px 0;
-	border-top: 3px double black;
-	border-bottom: 3px double black;
+.footer {
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 5px 0;
+  border-top: 3px double black;
+  border-bottom: 3px double black;
 }
 
-@media only screen and (max-width: 1024px) {
+/*@media only screen and (max-width: 1024px) {
 	.columns {
 		flex-direction: column;
 	}

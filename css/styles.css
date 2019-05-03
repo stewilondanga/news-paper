@@ -79,17 +79,17 @@ h1 {
   border-bottom: 3px double black;
 }
 
-/*@media only screen and (max-width: 1024px) {
-	.columns {
-		flex-direction: column;
-	}
+@media only screen and (max-width: 1024px) {
+  .columns {
+    flex-direction: column;
+  }
 
-	.columns > div {
-		padding: 0 10px;
-	}
+  .columns>div {
+    padding: 0 10px;
+  }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }

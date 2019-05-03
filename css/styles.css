@@ -19,17 +19,16 @@ body {
   height: 1.5em;
 }
 
-/*
 .title {
-	font-size: 4.5em;
-	font-weight: bold;
-	text-align: center;
-	margin-top: 40px;
-	padding-bottom: 10px;
-	border-bottom: 10px double black;
+  font-size: 4.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+  padding-bottom: 10px;
+  border-bottom: 10px double black;
 }
 
-.date {
+/*.date {
 	font: 1em "Roboto Mono", monospace;
 	text-align: center;
 	width: 280px;

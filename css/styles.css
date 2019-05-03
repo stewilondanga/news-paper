@@ -28,17 +28,17 @@ body {
   border-bottom: 10px double black;
 }
 
-/*.date {
-	font: 1em "Roboto Mono", monospace;
-	text-align: center;
-	width: 280px;
-	margin: auto;
-	margin-top: 10px;
-	border-left: 1px solid black;
-	border-right: 1px solid black;
+.date {
+  font: 1em "Roboto Mono", monospace;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  margin-top: 10px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 
-.columns {
+/*.columns {
 	display: flex;
 	justify-content: center;
 	align-items: stretch;

@@ -58,11 +58,11 @@ body {
   text-align: left;
 }
 
-/*h1 {
-	font-size: 2.5em;
+h1 {
+  font-size: 2.5em;
 }
 
-img {
+/*img {
 	width: 100%;
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);

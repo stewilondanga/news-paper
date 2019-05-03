@@ -46,14 +46,14 @@ body {
   border-top: 3px solid black;
 }
 
-/*.columns > div {
-	flex-grow: 0;
-	flex-basis: 20%;
-	text-align: center;
-	padding: 0 10px;
+.columns>div {
+  flex-grow: 0;
+  flex-basis: 20%;
+  text-align: center;
+  padding: 0 10px;
 }
 
-.columns div p {
+/*.columns div p {
 	font-family: "Roboto", sans-serif;
 	text-align: left;
 }
